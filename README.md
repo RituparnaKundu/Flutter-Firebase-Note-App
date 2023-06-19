@@ -1,5 +1,5 @@
-# Eznotes
-flutter firebase app for note taking
+# Eznotes - flutter firebase app for note taking
+
 
 APP INFO:  
 version: 1.0.0
